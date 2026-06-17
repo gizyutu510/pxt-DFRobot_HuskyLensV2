@@ -1,7 +1,6 @@
 {
     "huskylens2.I2CInit|block": "I2Cを初期化する（成功するまで）",
     "huskylens2.switchAlgorithm|block": "アルゴリズムを %algorithmId に切り替える",
-
     "huskylens2.getResultFaceRecognition|block": "顔認識の結果を取得する",
     "huskylens2.availableFaceRecognition|block": "顔を検出しているか",
     "huskylens2.cachedCenterResult|block": "中心に最も近い顔の %property",
@@ -12,7 +11,6 @@
     "huskylens2.totalFaceById|block": "ID %index の顔の数",
     "huskylens2.facePropertyById|block": "顔ID %index の %property",
     "huskylens2.facePropertyByIdNth|block": "顔ID %Id の %index 番目の %property",
-
     "huskylens2.getResultObjectRecognition|block": "物体認識の結果を取得する",
     "huskylens2.availableObjectRecognition|block": "物体を検出しているか",
     "huskylens2.cachedCenterObjectResult|block": "中心に最も近い物体の %property",
@@ -23,11 +21,9 @@
     "huskylens2.totalObjectById|block": "ID %index の物体の数",
     "huskylens2.objectPropertyById|block": "物体ID %index の %property",
     "huskylens2.objectPropertyByIdNth|block": "物体ID %Id の %index 番目の %property",
-
     "huskylens2.getResultObjectTracking|block": "物体追跡の結果を取得する",
     "huskylens2.availableObjectTracking|block": "追跡対象を検出しているか",
     "huskylens2.cachedObjectTrackingResult|block": "追跡中の物体の %property",
-
     "huskylens2.getResultColorRecognition|block": "色認識の結果を取得する",
     "huskylens2.availableColorRecognition|block": "色ブロックを検出しているか",
     "huskylens2.cachedCenterColorResult|block": "中心に最も近い色ブロックの %property",
@@ -38,16 +34,13 @@
     "huskylens2.totalColorById|block": "ID %index の色ブロックの数",
     "huskylens2.colorPropertyById|block": "色ブロックID %index の %property",
     "huskylens2.colorPropertyByIdNth|block": "色ブロックID %Id の %index 番目の %property",
-
     "huskylens2.getResultObjectClassification|block": "物体分類の結果を取得する",
     "huskylens2.availableObjectClassification|block": "分類対象を検出しているか",
     "huskylens2.cachedResultNumObjectClassification|block": "検出した分類対象の数",
     "huskylens2.cachedObjectClassificationResult|block": "分類対象 %index の %property",
-
     "huskylens2.getResultSelfLearningClassification|block": "自己学習分類の結果を取得する",
     "huskylens2.availableSelfLearningClassification|block": "自己学習分類を検出しているか",
     "huskylens2.cachedSelfLearningClassificationResult|block": "自己学習分類の %property",
-
     "huskylens2.getResultInstanceRecognition|block": "インスタンスセグメンテーションの結果を取得する",
     "huskylens2.availableInstanceRecognition|block": "インスタンスを検出しているか",
     "huskylens2.cachedCenterInstanceResult|block": "中心に最も近いインスタンスの %property",
@@ -58,7 +51,6 @@
     "huskylens2.totalInstanceById|block": "ID %index のインスタンスの数",
     "huskylens2.instancePropertyById|block": "インスタンスID %index の %property",
     "huskylens2.instancePropertyByIdNth|block": "インスタンスID %Id の %index 番目の %property",
-
     "huskylens2.getResultGestureRecognition|block": "ハンド認識の結果を取得する",
     "huskylens2.availableGestureRecognition|block": "ジェスチャーを検出しているか",
     "huskylens2.cachedCenterGestureResult|block": "中心に最も近いジェスチャーの %property",
@@ -69,7 +61,6 @@
     "huskylens2.totalGestureById|block": "ID %index のジェスチャーの数",
     "huskylens2.gesturePropertyById|block": "ジェスチャーID %index の %property",
     "huskylens2.gesturePropertyByIdNth|block": "ジェスチャーID %Id の %index 番目の %property",
-
     "huskylens2.getResultPoseRecognition|block": "姿勢認識の結果を取得する",
     "huskylens2.availablePoseRecognition|block": "姿勢を検出しているか",
     "huskylens2.cachedCenterPoseResult|block": "中心に最も近い姿勢の %property",
@@ -80,7 +71,6 @@
     "huskylens2.totalPoseById|block": "ID %index の姿勢の数",
     "huskylens2.posePropertyById|block": "姿勢ID %index の %property",
     "huskylens2.posePropertyByIdNth|block": "姿勢ID %Id の %index 番目の %property",
-
     "huskylens2.getResultPlateRecognition|block": "ナンバープレート認識の結果を取得する",
     "huskylens2.availablePlateRecognition|block": "ナンバープレートを検出しているか",
     "huskylens2.cachedCenterPlateResult|block": "中心に最も近いナンバープレートの %property",
@@ -91,20 +81,17 @@
     "huskylens2.totalPlateById|block": "ID %index のナンバープレートの数",
     "huskylens2.platePropertyById|block": "ナンバープレートID %index の %property",
     "huskylens2.platePropertyByIdNth|block": "ナンバープレートID %Id の %index 番目の %property",
-
     "huskylens2.getResultTextRecognition|block": "文字認識（OCR）の結果を取得する",
     "huskylens2.availableTextRecognition|block": "文字領域を検出しているか",
     "huskylens2.cachedCenterTextResult|block": "中心に最も近い文字領域の %property",
     "huskylens2.totalLearnedTextIds|block": "学習済みの文字領域IDの数",
     "huskylens2.textIdExists|block": "文字領域ID %index は存在するか",
     "huskylens2.textPropertyById|block": "文字領域ID %index の %property",
-
     "huskylens2.getResultLineTracking|block": "ライン追跡の結果を取得する",
     "huskylens2.availableLineTracking|block": "ラインを検出しているか",
     "huskylens2.cachedLineTrackingResult|block": "現在のラインの %property",
     "huskylens2.lineTrackingBranchCount|block": "前方の分岐点の分岐数",
     "huskylens2.lineTrackingBranchProperty|block": "反時計回りに %index 番目の分岐の %property",
-
     "huskylens2.getResultEmotionRecognition|block": "表情認識の結果を取得する",
     "huskylens2.availableEmotionRecognition|block": "表情を検出しているか",
     "huskylens2.cachedCenterEmotionResult|block": "中心に最も近い表情の %property",
@@ -115,7 +102,6 @@
     "huskylens2.totalEmotionById|block": "ID %index の表情の数",
     "huskylens2.emotionPropertyById|block": "表情ID %index の %property",
     "huskylens2.emotionPropertyByIdNth|block": "表情ID %Id の %index 番目の %property",
-
     "huskylens2.getResultTagRecognition|block": "タグ認識の結果を取得する",
     "huskylens2.availableTagRecognition|block": "タグを検出しているか",
     "huskylens2.cachedCenterTagResult|block": "中心に最も近いタグの %property",
@@ -126,7 +112,6 @@
     "huskylens2.totalTagById|block": "ID %index のタグの数",
     "huskylens2.tagPropertyById|block": "タグID %index の %property",
     "huskylens2.tagPropertyByIdNth|block": "タグID %Id の %index 番目の %property",
-
     "huskylens2.getResultQRCodeRecognition|block": "QRコード認識の結果を取得する",
     "huskylens2.availableQRCodeRecognition|block": "QRコードを検出しているか",
     "huskylens2.cachedCenterQRCodeResult|block": "中心に最も近いQRコードの %property",
@@ -137,7 +122,6 @@
     "huskylens2.totalQRCodeById|block": "ID %index のQRコードの数",
     "huskylens2.QRCodePropertyById|block": "QRコードID %index の %property",
     "huskylens2.QRCodePropertyByIdNth|block": "QRコードID %Id の %index 番目の %property",
-
     "huskylens2.getResultBarcodeRecognition|block": "バーコード認識の結果を取得する",
     "huskylens2.availableBarcodeRecognition|block": "バーコードを検出しているか",
     "huskylens2.cachedCenterBarcodeResult|block": "中心に最も近いバーコードの %property",
@@ -148,13 +132,11 @@
     "huskylens2.totalBarcodeById|block": "ID %index のバーコードの数",
     "huskylens2.barcodePropertyById|block": "バーコードID %index の %property",
     "huskylens2.barcodePropertyByIdNth|block": "バーコードID %Id の %index 番目の %property",
-
     "huskylens2.requestFallDetectionData|block": "転倒検出の結果を取得する",
     "huskylens2.fallDetected|block": "転倒を検出しているか",
     "huskylens2.nearestFallDetection|block": "中心に最も近い転倒検出の %property",
     "huskylens2.totalFallDetections|block": "検出した転倒の数",
     "huskylens2.fallDetectionProperty|block": "%index 番目の転倒検出の %property",
-
     "huskylens2.requestFaceOrientationData|block": "顔の向き検出の結果を取得する",
     "huskylens2.faceOrientationDetected|block": "顔の向きを検出しているか",
     "huskylens2.nearestFaceOrientation|block": "中心に最も近い顔の向きの %property",
@@ -165,7 +147,6 @@
     "huskylens2.totalFaceOrientationsWithId|block": "ID %Id の顔の向きの数",
     "huskylens2.faceOrientationWithId|block": "ID %Id の顔の向きの %property",
     "huskylens2.faceOrientationWithIdProperty|block": "ID %Id の %index 番目の顔の向きの %property",
-
     "huskylens2.requestEyeGazeData|block": "視線方向検出の結果を取得する",
     "huskylens2.eyeGazeDetected|block": "視線方向を検出しているか",
     "huskylens2.nearestEyeGaze|block": "中心に最も近い視線方向の %property",
@@ -176,7 +157,6 @@
     "huskylens2.totalEyeGazesWithId|block": "ID %Id の視線方向の数",
     "huskylens2.gazeWithId|block": "ID %Id の視線方向の %property",
     "huskylens2.gazeWithIdProperty|block": "ID %Id の %index 番目の視線方向の %property",
-
     "huskylens2.selfTrainedModelSwitchAlgorithm|block": "自己学習モデルに切り替える モデルID %num",
     "huskylens2.requestData|block": "モデルID %num のデータを取得して結果に保存する",
     "huskylens2.detected|block": "モデルID %num が対象を検出しているか",
@@ -188,7 +168,6 @@
     "huskylens2.totalWithId|block": "モデルID %num のID %Id の対象の数",
     "huskylens2.withId|block": "モデルID %num のID %Id の対象の %property",
     "huskylens2.withIdProperty|block": "モデルID %num のID %Id の %index 番目の対象の %property",
-
     "huskylens2.Algorithm.AlgorithmFaceRecognition|block": "顔認識",
     "huskylens2.Algorithm.AlgorithmObjectRecognition|block": "物体認識",
     "huskylens2.Algorithm.AlgorithmObjectTracking|block": "物体追跡",
@@ -208,7 +187,6 @@
     "huskylens2.Algorithm.AlgorithmBarcodeRecognition|block": "バーコード認識",
     "huskylens2.Algorithm.AlgorithmQrCodeRecognition|block": "QRコード認識",
     "huskylens2.Algorithm.AlgorithmFallDownRecognition|block": "転倒検出",
-
     "huskylens2.AlgorithmLearnSetNameOfId.AlgorithmFaceRecognition|block": "顔認識",
     "huskylens2.AlgorithmLearnSetNameOfId.AlgorithmObjectTracking|block": "物体追跡",
     "huskylens2.AlgorithmLearnSetNameOfId.AlgorithmColorRecognition|block": "色認識",
@@ -222,7 +200,6 @@
     "huskylens2.AlgorithmLearnSetNameOfId.AlgorithmTagRecognition|block": "タグ認識",
     "huskylens2.AlgorithmLearnSetNameOfId.AlgorithmBarcodeRecognition|block": "バーコード認識",
     "huskylens2.AlgorithmLearnSetNameOfId.AlgorithmQrCodeRecognition|block": "QRコード認識",
-
     "huskylens2.AlgorithmLearnObjectAtCenter.AlgorithmFaceRecognition|block": "顔認識",
     "huskylens2.AlgorithmLearnObjectAtCenter.AlgorithmObjectRecognition|block": "物体認識",
     "huskylens2.AlgorithmLearnObjectAtCenter.AlgorithmColorRecognition|block": "色認識",
@@ -238,7 +215,6 @@
     "huskylens2.AlgorithmLearnObjectAtCenter.AlgorithmTagRecognition|block": "タグ認識",
     "huskylens2.AlgorithmLearnObjectAtCenter.AlgorithmBarcodeRecognition|block": "バーコード認識",
     "huskylens2.AlgorithmLearnObjectAtCenter.AlgorithmQrCodeRecognition|block": "QRコード認識",
-
     "huskylens2.AlgorithmLearnObjectInBox.AlgorithmFaceRecognition|block": "顔認識",
     "huskylens2.AlgorithmLearnObjectInBox.AlgorithmObjectRecognition|block": "物体認識",
     "huskylens2.AlgorithmLearnObjectInBox.AlgorithmObjectTracking|block": "物体追跡",
@@ -253,27 +229,23 @@
     "huskylens2.AlgorithmLearnObjectInBox.AlgorithmTagRecognition|block": "タグ認識",
     "huskylens2.AlgorithmLearnObjectInBox.AlgorithmBarcodeRecognition|block": "バーコード認識",
     "huskylens2.AlgorithmLearnObjectInBox.AlgorithmQrCodeRecognition|block": "QRコード認識",
-
     "huskylens2.BaseProperty.Name|block": "名前",
     "huskylens2.BaseProperty.XCenter|block": "X中心",
     "huskylens2.BaseProperty.YCenter|block": "Y中心",
     "huskylens2.BaseProperty.Width|block": "幅",
     "huskylens2.BaseProperty.Height|block": "高さ",
-
     "huskylens2.BasePropertyId.Id|block": "ID",
     "huskylens2.BasePropertyId.Name|block": "名前",
     "huskylens2.BasePropertyId.XCenter|block": "X中心",
     "huskylens2.BasePropertyId.YCenter|block": "Y中心",
     "huskylens2.BasePropertyId.Width|block": "幅",
     "huskylens2.BasePropertyId.Height|block": "高さ",
-
     "huskylens2.BasePropertyContent.Name|block": "名前",
     "huskylens2.BasePropertyContent.XCenter|block": "X中心",
     "huskylens2.BasePropertyContent.YCenter|block": "Y中心",
     "huskylens2.BasePropertyContent.Width|block": "幅",
     "huskylens2.BasePropertyContent.Height|block": "高さ",
     "huskylens2.BasePropertyContent.Content|block": "内容",
-
     "huskylens2.BasePropertyContentId.Id|block": "ID",
     "huskylens2.BasePropertyContentId.Name|block": "名前",
     "huskylens2.BasePropertyContentId.XCenter|block": "X中心",
@@ -281,42 +253,34 @@
     "huskylens2.BasePropertyContentId.Width|block": "幅",
     "huskylens2.BasePropertyContentId.Height|block": "高さ",
     "huskylens2.BasePropertyContentId.Content|block": "内容",
-
     "huskylens2.ObjectClassificationProperty.Id|block": "ID",
     "huskylens2.ObjectClassificationProperty.Name|block": "名前",
-
     "huskylens2.SelfLearningClassificationProperty.Id|block": "ID",
     "huskylens2.SelfLearningClassificationProperty.Name|block": "名前",
-
     "huskylens2.LineTrackingProperty.XComponent|block": "X成分",
     "huskylens2.LineTrackingProperty.YComponent|block": "Y成分",
     "huskylens2.LineTrackingProperty.Angle|block": "角度",
     "huskylens2.LineTrackingProperty.Length|block": "長さ",
-
     "huskylens2.FaceOrientationProperty.Id|block": "ID",
     "huskylens2.FaceOrientationProperty.Name|block": "名前",
     "huskylens2.FaceOrientationProperty.Roll|block": "ロール角",
     "huskylens2.FaceOrientationProperty.Yaw|block": "ヨー角",
     "huskylens2.FaceOrientationProperty.Pitch|block": "ピッチ角",
-
     "huskylens2.FaceOrientationPropertyId.Name|block": "名前",
     "huskylens2.FaceOrientationPropertyId.Roll|block": "ロール角",
     "huskylens2.FaceOrientationPropertyId.Yaw|block": "ヨー角",
     "huskylens2.FaceOrientationPropertyId.Pitch|block": "ピッチ角",
-
     "huskylens2.EyeGazeProperty.Id|block": "ID",
     "huskylens2.EyeGazeProperty.Name|block": "名前",
     "huskylens2.EyeGazeProperty.Angle|block": "投影角度",
     "huskylens2.EyeGazeProperty.Length|block": "投影長さ",
     "huskylens2.EyeGazeProperty.Pitch|block": "ピッチ角",
     "huskylens2.EyeGazeProperty.Yaw|block": "ヨー角",
-
     "huskylens2.EyeGazePropertyId.Name|block": "名前",
     "huskylens2.EyeGazePropertyId.Angle|block": "投影角度",
     "huskylens2.EyeGazePropertyId.Length|block": "投影長さ",
     "huskylens2.EyeGazePropertyId.Pitch|block": "ピッチ角",
     "huskylens2.EyeGazePropertyId.Yaw|block": "ヨー角",
-
     "{id:category}huskylens2": "huskylens2",
     "{id:group}communication": "通信",
     "{id:group}algorithm switch": "アルゴリズム切り替え",
@@ -339,7 +303,7 @@
     "{id:subcategory}fall detection": "転倒検出",
     "{id:subcategory}faceorientation recognition": "顔の向き認識",
     "{id:subcategory}gaze direction detection": "視線方向検出",
-    "{id:subcategory}self training": "自己学習モデル"
+    "{id:subcategory}self training": "自己学習モデル",
     "huskylens2.getLearnedId|block": "学習したIDを取得する",
     "huskylens2.learnObjectAtCenter|block": "組み込みモデル %algorithmId で画面中央の対象を学習する",
     "huskylens2.learnObjectAtCenterNUM|block": "自己学習モデル %algorithmId で画面中央の対象を学習する",
